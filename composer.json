@@ -1,7 +1,7 @@
 {
     "name": "ousamox/messages-manager",
     "version": "1.0.0",
-    "description": "This package allow piman projects to integrate easily a messages/chat manager",
+    "description": "The package provides an easy way to implementing a messages manager into your laravel project",
     "type": "composer-plugin",
     "keywords": ["laravel","chat","messages","manager","ousamox","oussama","bouisfi"],
     "license": "MIT",
